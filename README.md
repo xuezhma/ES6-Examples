@@ -4,7 +4,7 @@
 <ul>
 <li>Setup ES6 with Babel</li>
 <li>Compile ES6 in Terminal</li>
-<li>Compile and highlight syntax in Sublime Test Editor (Not necessary, but makes life much easier.)</li>
+<li>Compile and highlight syntax in Sublime Test Editor (Not necessary, but makes life much easier)</li>
 <li>Examples of ES6 features as well as how to do them in ES5</li>
 </ul>
 
@@ -60,7 +60,7 @@ Tools -> Build System -> ES6
 ```
 <p>5. Use "Command + B" to compile a ES6 file. Use "Control + C" to kill it.
 
-<h2>Examples</2>
+<h2>Examples</h2>
 <p>Examples are all under folder 'examples'.</p>
 <p>Each file contains one feature.</p>
 <p>ES6 examples are not commented out while ES5 examples are.</p>
